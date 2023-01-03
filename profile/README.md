@@ -6,6 +6,10 @@ AtlasWorld is a Minecraft Mini Game server! For the moment the project is not pu
 
 https://atlasworld.fr/
 
+## Atlas Administrative Team
+Here is our administrative team
+- Sgod
+
 ## Atlas Dev Team
 Here is our dev team!
 - RaftDev
