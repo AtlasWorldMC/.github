@@ -15,3 +15,4 @@ Here is our administrative team
 ## Atlas Dev Team
 Here is our dev team!
 - RaftDev
+- Artex
